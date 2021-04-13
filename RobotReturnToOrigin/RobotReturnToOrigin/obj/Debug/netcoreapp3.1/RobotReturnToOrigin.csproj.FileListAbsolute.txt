@@ -1,0 +1,13 @@
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.exe
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.deps.json
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.runtimeconfig.json
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.runtimeconfig.dev.json
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.dll
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\netcoreapp3.1\RobotReturnToOrigin.pdb
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.csprojAssemblyReference.cache
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.AssemblyInfoInputs.cache
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.AssemblyInfo.cs
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.csproj.CoreCompileInputs.cache
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.dll
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.pdb
+C:\C#practice\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\netcoreapp3.1\RobotReturnToOrigin.genruntimeconfig.cache
