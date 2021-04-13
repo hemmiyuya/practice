@@ -1,0 +1,13 @@
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.exe
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.deps.json
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.runtimeconfig.json
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.runtimeconfig.dev.json
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.dll
+C:\C#practice\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.pdb
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.csprojAssemblyReference.cache
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.AssemblyInfoInputs.cache
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.AssemblyInfo.cs
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.csproj.CoreCompileInputs.cache
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.dll
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.pdb
+C:\C#practice\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.genruntimeconfig.cache

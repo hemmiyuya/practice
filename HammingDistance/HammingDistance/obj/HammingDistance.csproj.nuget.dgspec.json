@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#practice\\旗揚げゲーム\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\C#practice\\HammingDistance\\HammingDistance\\HammingDistance.csproj": {}
   },
   "projects": {
-    "C:\\C#practice\\旗揚げゲーム\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\C#practice\\HammingDistance\\HammingDistance\\HammingDistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#practice\\旗揚げゲーム\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\C#practice\\旗揚げゲーム\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\C#practice\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
+        "projectName": "HammingDistance",
+        "projectPath": "C:\\C#practice\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
         "packagesPath": "C:\\Users\\ytenp\\.nuget\\packages\\",
-        "outputPath": "C:\\C#practice\\旗揚げゲーム\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\C#practice\\HammingDistance\\HammingDistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
