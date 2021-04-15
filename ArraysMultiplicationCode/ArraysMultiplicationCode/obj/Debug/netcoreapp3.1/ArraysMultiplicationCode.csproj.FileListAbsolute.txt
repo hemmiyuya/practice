@@ -1,0 +1,13 @@
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.csprojAssemblyReference.cache
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.AssemblyInfoInputs.cache
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.AssemblyInfo.cs
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.csproj.CoreCompileInputs.cache
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.exe
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.deps.json
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.runtimeconfig.json
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.runtimeconfig.dev.json
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.dll
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\bin\Debug\netcoreapp3.1\ArraysMultiplicationCode.pdb
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.dll
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.pdb
+C:\C#practice\ArraysMultiplicationCode\ArraysMultiplicationCode\obj\Debug\netcoreapp3.1\ArraysMultiplicationCode.genruntimeconfig.cache

@@ -70,5 +70,25 @@ namespace RobotReturnToOrigin
             return l_Origin;
         }
 
+        /// <summary>
+        /// 最短サンプル
+        /// </summary>
+        /// <param name="moves"></param>
+        /// <returns></returns>
+        public bool JudgeCircle(string moves)
+        {
+            int longitude = 0;
+            int latitude = 0;
+            for (var i = 0; i < moves.Length; i++)
+            {
+                if (moves[i] == 'U') longitude++;
+                if (moves[i] == 'D') longitude--;
+                if (moves[i] == 'R') latitude++;
+                if (moves[i] == 'L') latitude--;
+            }
+
+            return longitude == 0 && latitude == 0;
+        }
+
     }
 }
